@@ -29,9 +29,7 @@ This project simulates an antivirus endpoint alert monitoring system similar to 
 
 ### Installation & Setup
 
-1. Clone the repository:
-
-2. (Optional but recommended) Set up a virtual environment and activate it:
+1. (Optional but recommended) Set up a virtual environment and activate it:
 - On Windows:
   ```
   python -m venv venv
@@ -43,7 +41,7 @@ This project simulates an antivirus endpoint alert monitoring system similar to 
   source venv/bin/activate
   ```
 
-3. Install required Python packages:
+2. Install required Python packages:
 
 ### Running the Project
 
