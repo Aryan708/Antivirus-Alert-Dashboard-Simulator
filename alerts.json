@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-08-03 01:49:33",
+    "endpoint": "Host-4",
+    "type": "Scan failed",
+    "severity": "Critical",
+    "status": "New"
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-08-03 01:49:33",
+    "endpoint": "Host-4",
+    "type": "Virus detected",
+    "severity": "Medium",
+    "status": "Resolved"
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-08-03 01:49:33",
+    "endpoint": "Host-2",
+    "type": "Suspicious file",
+    "severity": "Medium",
+    "status": "In Progress"
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-4",
+    "type": "Scan failed",
+    "severity": "High",
+    "status": "Resolved"
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-3",
+    "type": "Suspicious file",
+    "severity": "High",
+    "status": "In Progress"
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-2",
+    "type": "Scan failed",
+    "severity": "Medium",
+    "status": "Resolved"
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-3",
+    "type": "Unauthorized access",
+    "severity": "Low",
+    "status": "Resolved"
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-1",
+    "type": "Unauthorized access",
+    "severity": "Medium",
+    "status": "New"
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-2",
+    "type": "Suspicious file",
+    "severity": "Low",
+    "status": "In Progress"
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-3",
+    "type": "Virus detected",
+    "severity": "Low",
+    "status": "New"
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-2",
+    "type": "Virus detected",
+    "severity": "Medium",
+    "status": "Resolved"
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-3",
+    "type": "Scan failed",
+    "severity": "Critical",
+    "status": "In Progress"
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-08-03 01:49:34",
+    "endpoint": "Host-3",
+    "type": "Virus detected",
+    "severity": "Low",
+    "status": "Resolved"
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-08-03 01:49:35",
+    "endpoint": "Host-4",
+    "type": "Scan failed",
+    "severity": "Critical",
+    "status": "In Progress"
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-08-03 01:49:35",
+    "endpoint": "Host-3",
+    "type": "Virus detected",
+    "severity": "Low",
+    "status": "Resolved"
+  }
+]
